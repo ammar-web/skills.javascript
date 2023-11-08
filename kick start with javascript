@@ -29,6 +29,7 @@ const cube = new THREE.Mesh(geometry, material);
 scene.add(cube);
 
 
+
 // Position the camera
 camera.position.z = 5;
 
