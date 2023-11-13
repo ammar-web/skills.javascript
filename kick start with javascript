@@ -32,6 +32,7 @@ scene.add(cube);
  
 
 // Position the camera
+
 camera.position.z = 5;
 
 // Create an animation loop
