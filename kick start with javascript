@@ -34,7 +34,7 @@ scene.add(cube);
   
  
 
-// Position the camera
+// Position the camera 
 
 camera.position.z = 5;
 
