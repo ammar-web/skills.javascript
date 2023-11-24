@@ -41,6 +41,7 @@ camera.position.z = 5;
 
 // Create an animation loop
 const animate = () => {
+
   requestAnimationFrame(animate);
 
   // Rotate the cube
