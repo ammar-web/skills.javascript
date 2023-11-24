@@ -23,7 +23,7 @@ const renderer = new THREE.WebGLRenderer();
 
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
-alert("it is a cube")   
+alert("it is a cube")     
 
 // Create a cube   
 
