@@ -34,7 +34,7 @@ const cube = new THREE.Mesh(geometry, material);
 scene.add(cube);    
 prompt("give the shape of a cube")
   
- 
+   
 
 // Position the camera 
 
