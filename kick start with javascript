@@ -7,6 +7,7 @@
   <head>
     <meta charset="utf-8">
     <title>3D Cube Example</title>
+
   </head>
   <body>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
