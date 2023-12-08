@@ -26,6 +26,30 @@ alert("Jack and Jone's Love Percenatage is " + Math.floor(n) + '%')
 ### BMI CALCULATOR USING IF AND ELSE STATEMENTS ALSO COMBINING COMPARATORS ###
 
 
+function bmiCalculator (weight, height) {
+    
+    var bmiValue = weight/(height*height);
+    
+    return Math.floor(bmiValue);
+    
+}
+
+    var bmi = bmiCalculator(65,1.8);
+    console.log(bmi);
+    
+    if (bmi < 18.5){
+        alert("Your BMI is "+ bmi +  "so you are underweight.")
+    }
+
+ 
+    if (bmi >= 18.5 && bmi <= 24.9  ) {
+        alert("Your BMI is " + bmi + " so you have a normal weight.")
+    } else {('You are over weight')
+
+
+           }
+
+
 
 
 
