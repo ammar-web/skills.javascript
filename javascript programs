@@ -1,6 +1,5 @@
 var i=99;
 
-
 function beerpoem(){
 
    while(i>=1){
