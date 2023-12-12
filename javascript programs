@@ -16,3 +16,37 @@ function beerpoem(){
    }  
 }
 beerpoem()
+
+
+
+
+
+function fibonacciGenerator(n)
+{
+
+    var output=[];
+
+    for(var i=0;i<n;i++)
+    {
+        if (i===0)
+        {
+            output.push(0);
+        }
+        if (i===1)
+        {
+            output.push(1);
+        }
+        if (i>1)
+        {
+            output.push(output[i-2] +output[i-1]);
+        }
+    }
+    
+ return output;
+}
+routput=fibonacciGenerator(10);
+console.log(routput);
+
+
+
+
