@@ -1,4 +1,4 @@
-### ###
+### The Dice Game External JavaScript File. ###
 
 
 
