@@ -1,3 +1,9 @@
+### ###
+
+
+
+
+
 var randomnumber1 = Math.floor(Math.random()* 6) +1;
 
 var randomDiceimage1= "images/dice" + randomnumber1 + ".png";
