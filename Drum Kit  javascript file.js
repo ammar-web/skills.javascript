@@ -1,4 +1,4 @@
-### ###
+###  DRUM KIT WEBSITE JAVA SCRIPT FILE ###
 
 
 var drumbeats=document.querySelectorAll(".drum").length
